@@ -1,7 +1,8 @@
 # Tic-Tac-Toe
 A beginner-level game made in Python. Can be played in the console using:
-
-<python3 game.py>
+```
+python3 game.py
+```
 
 ## Gameplay
 
